@@ -20,6 +20,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yang\Documents\GitHub\geekinpink" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,7 +40,8 @@
       <workItem from="1601642339779" duration="1281000" />
       <workItem from="1601805912283" duration="250000" />
       <workItem from="1601807375269" duration="10947000" />
-      <workItem from="1601833670509" duration="620000" />
+      <workItem from="1601833670509" duration="690000" />
+      <workItem from="1601834407398" duration="15553000" />
     </task>
     <servers />
   </component>
