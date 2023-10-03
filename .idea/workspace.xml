@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4c43bea-d9f2-4947-8ade-bbcd44949f24" name="Default Changelist" comment="" />
+    <list default="true" id="b4c43bea-d9f2-4947-8ade-bbcd44949f24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_experiences.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_experiences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ZouMuyang_Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/reports/ZouMuyang_Resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skill_and_motivation.html" beforeDir="false" afterPath="$PROJECT_DIR$/skill_and_motivation.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -26,6 +40,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Yang\Documents\GitHub\geekinpink" />
     </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,6 +78,8 @@
       <workItem from="1602331114453" duration="14952000" />
       <workItem from="1602380360011" duration="8596000" />
       <workItem from="1602397095616" duration="309000" />
+      <workItem from="1696008319851" duration="30000" />
+      <workItem from="1696237245280" duration="16940000" />
     </task>
     <servers />
   </component>
@@ -59,17 +87,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-7" y="0" width="1294" height="1407" key="dock-window-1" timestamp="1602331136926">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1696338787408">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="-7" y="0" width="1294" height="1407" key="dock-window-1/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1602331136926" />
-    <state x="887" y="250" width="786" height="900" key="find.popup" timestamp="1602343717884">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="887" y="250" width="786" height="900" key="find.popup/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1602343717884" />
-    <state x="943" y="315" key="search.everywhere.popup" timestamp="1602336159171">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="943" y="315" key="search.everywhere.popup/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1602336159171" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1696338787408" />
   </component>
 </project>
